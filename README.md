@@ -1,29 +1,51 @@
+<!-- Header Image (Jo aapne upload ki) -->
+<div align="center">
+  <img src="banner.jpg" width="100%" alt="Coding Setup" style="border-radius: 10px;" />
+</div>
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm MrAnujBabu</h1>
-<h3 align="center">Student of Deeplearner of New World 🌍</h3>
+<h3 align="center">Backend Developer & Java Specialist ☕</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I am passionate about learning and understanding the **fundamentals of everything** related to my field.
-- ⚡ I am passionate about **adapting to new technologies**.
-- 🌱 I’m currently learning **Advanced Tech & Coding**.
-- 💬 Ask me about **Technology trends**.
-
+- 🔭 Currently working on **Backend Development** with **Java & Spring Boot**
+- 🌱 Exploring **Batch Processing, Caching Mechanisms**, and **Search Optimization**
+- ☁️ Skilled in **Azure Cloud** | 🏆 **Microsoft Certified: Azure Developer Associate**
+- 💡 Passionate about **Open Source** & experimenting with **new technologies**
+- 🌐 Visit my **[Portfolio Website](Your_Portfolio_Link_Here)**
+- 😄 Pronouns: **He/Him**
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Tech Stack & Tools
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & 3D Graph
 
-![MrAnujBabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical)
+<div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<!-- 3D Snake Animation (Contribution Graph) -->
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=MrAnujBabu&palette=github-dark&color_snake=orange" alt="snake animation" width="100%" />
+</div>
