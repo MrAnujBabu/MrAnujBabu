@@ -6,20 +6,17 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm MrAnujBabu</h1>
-<h3 align="center">Backend Developer & Java Specialist ☕</h3>
+<h3 align="center">Constant Learner & Devloper ☕</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Backend Development** with **Java & Spring Boot**
+- 🔭 Currently working on **Deeplearning.ai to understand Modals**
 - 🌱 Exploring **Batch Processing, Caching Mechanisms**, and **Search Optimization**
-- ☁️ Skilled in **Azure Cloud** | 🏆 **Microsoft Certified: Azure Developer Associate**
-- 💡 Passionate about **Open Source** & experimenting with **new technologies**
+- 💡 Passionate about **Book Writing**
 - 🌐 Visit my **[Portfolio Website](Your_Portfolio_Link_Here)**
 - 😄 Pronouns: **He/Him**
-
----
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
