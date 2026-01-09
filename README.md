@@ -9,7 +9,7 @@
 - ⚡ I am passionate about **adapting to new technologies**.
 - 🌱 I’m currently learning **Advanced Tech & Coding**.
 - 💬 Ask me about **Technology trends**.
-- 📫 How to reach me: **[Apna Email Yahan Likhein]**
+
 
 ---
 
