@@ -15,7 +15,7 @@
 - 🔭 Currently working on **Deeplearning.ai to understand Modals**
 - 🌱 Exploring **Batch Processing, Caching Mechanisms**, and **Search Optimization**
 - 💡 Passionate about **Book Writing**
-- 🌐 Visit my **[Portfolio Website](Your_Portfolio_Link_Here)**
+- 🌐 Visit my **[Portfolio Website](https://mranujbabu.github.io/Certificate-Portfolio/)**
 - 😄 Pronouns: **He/Him**
 
 ### 🛠 Tech Stack & Tools
