@@ -12,10 +12,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate snake SVG
-      - uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MrAnujBabu
           outputs: |
