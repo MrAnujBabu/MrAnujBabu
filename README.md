@@ -42,6 +42,6 @@
 <br/>
 
 <!-- 3D Snake Animation (Contribution Graph) -->
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=MrAnujBabu&palette=github-dark&color_snake=orange" alt="snake animation" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrAnujBabu/MrAnujBabu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
