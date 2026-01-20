@@ -1,4 +1,3 @@
-<!-- Header Image (Jo aapne upload ki) -->
 <div align="center">
   <img src="banner.jpg" width="100%" alt="Coding Setup" style="border-radius: 10px;" />
 </div>
