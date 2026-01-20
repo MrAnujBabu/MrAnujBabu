@@ -6,7 +6,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm MrAnujBabu</h1>
-<h3 align="center">Constant Learner & Devloper ☕</h3>
+<h3 align="center">Constant Learner & Designer ☕</h3>
 
 ---
 
