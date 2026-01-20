@@ -14,7 +14,7 @@
 
 - 🔭 Currently working on **Deeplearning.ai to understand Modals**
 - 🌱 Exploring **Batch Processing, Caching Mechanisms**, and **Search Optimization**
-- 💡 Passionate about **Book Writing**
+- 💡 Passionate about **Book Writing** & **Founder of **Naveenbharatprism**
 - 🌐 Visit my **[Portfolio Website](https://mranujbabu.github.io/Certificate-Portfolio/)**
 - 😄 Pronouns: **He/Him**
 
