@@ -31,13 +31,15 @@
 
 ---
 
-### 📊 GitHub Stats & 3D Graph
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical&v=2" alt="Anuj's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAnujBabu&theme=radical" alt="MrAnujBabu's Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&layout=compact&theme=radical&v=2" alt="Top Langs" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&theme=radical&layout=compact" alt="Top Langs" />
 
 </div>
 <!-- 3D Snake Animation (Contribution Graph) -->
