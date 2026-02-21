@@ -34,13 +34,9 @@
 ### 📊 GitHub Stats & 3D Graph
 
 <div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&layout=compact&theme=radical)
 <br/>
 
 <!-- 3D Snake Animation (Contribution Graph) -->
