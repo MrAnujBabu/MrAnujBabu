@@ -34,11 +34,12 @@
 ### 📊 GitHub Stats & 3D Graph
 
 <div align="center">
+
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&layout=compact&theme=radical)
-<br/>
 
+</div>
 <!-- 3D Snake Animation (Contribution Graph) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MrAnujBabu/MrAnujBabu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
