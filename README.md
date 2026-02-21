@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=MrAnujBabu&show_icons=true&theme=radical&v=2" alt="Anuj's GitHub stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&layout=compact&theme=radical&v=2" alt="Top Langs" />
 
 </div>
 <!-- 3D Snake Animation (Contribution Graph) -->
