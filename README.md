@@ -5,6 +5,8 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm MrAnujBabu</h1>
+<img src="wave_animation_light.svg" width="100%" alt="Coding Setup" style="border-radius: 10px;" />
+</div>
 <h3 align="center">Constant Learner & Designer ☕</h3>
 
 ---
