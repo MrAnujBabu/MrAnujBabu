@@ -39,7 +39,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&theme=radical&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnujBabu&theme=radical&layout=compact&hide=jupyter%20notebook,tex,html,css" alt="Top Langs" />
 
 </div>
 <!-- 3D Snake Animation (Contribution Graph) -->
